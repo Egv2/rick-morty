@@ -32,6 +32,7 @@
 
   .app-header {
     @apply bg-accent;
+    background-color: #5d8b1b;
     min-height: 10vh;
     display: flex;
     flex-direction: column;
